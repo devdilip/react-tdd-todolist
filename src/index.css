@@ -47,7 +47,6 @@ input[type=checkbox],
 }
 .submit-button{
   height: 44px;
-  /* width: 50%; */
   margin-top: 30px;
   color: green;
   background-color: transparent;
